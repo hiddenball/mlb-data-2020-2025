@@ -1,0 +1,80 @@
+name: Fetch MLB data (year range)
+
+# Run from the Actions tab, or:
+#   gh workflow run fetch.yml -f start_year=1980 -f end_year=1987
+# If a year doesn't finish (timeout or failed requests), just run it again:
+# it resumes and only fetches what is still missing.
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_year:
+        description: "First year (e.g. 1980)"
+        required: true
+      end_year:
+        description: "Last year (e.g. 1987)"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      years: ${{ steps.years.outputs.years }}
+    steps:
+      - id: years
+        env:
+          START: ${{ inputs.start_year }}
+          END: ${{ inputs.end_year }}
+        run: |
+          if ! [[ "$START" =~ ^[0-9]{4}$ && "$END" =~ ^[0-9]{4}$ ]] || [ "$START" -gt "$END" ]; then
+            echo "Invalid year range: '$START' to '$END'"
+            exit 1
+          fi
+          echo "years=[$(seq -s, "$START" "$END")]" >> "$GITHUB_OUTPUT"
+
+  fetch:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    strategy:
+      max-parallel: 6
+      fail-fast: false
+      matrix:
+        year: ${{ fromJSON(needs.plan.outputs.years) }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch ${{ matrix.year }}
+        timeout-minutes: 335   # stops the step early so the commit step below still gets to run
+        run: python3 mlb_historical_fetch.py --only-years ${{ matrix.year }} --output-dir data
+
+      - name: Commit and push (runs even if the fetch step failed or timed out)
+        if: always()
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name "mlb-data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -q -m "Data for ${{ matrix.year }}"
+          for i in $(seq 1 10); do
+            if git pull -q --rebase origin "$BRANCH" && git push -q origin "$BRANCH"; then
+              echo "pushed"
+              exit 0
+            fi
+            echo "push failed, retry $i..."
+            sleep $((RANDOM % 20 + 5))
+          done
+          echo "Push failed after 10 attempts"
+          exit 1
