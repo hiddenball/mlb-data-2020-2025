@@ -1,0 +1,58 @@
+[
+  {
+    "year": 2025,
+    "field": "boxscore",
+    "total_checked": 2482,
+    "had_data": 2482,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2025,
+    "field": "draft",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2025,
+    "field": "linescore",
+    "total_checked": 2482,
+    "had_data": 2482,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2025,
+    "field": "playbyplay",
+    "total_checked": 2482,
+    "had_data": 2482,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2025,
+    "field": "roster",
+    "total_checked": 30,
+    "had_data": 30,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2025,
+    "field": "standings_splits",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2025,
+    "field": "transactions",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2025,
+    "field": "winprobability",
+    "total_checked": 2482,
+    "had_data": 2482,
+    "pct_available": 100.0
+  }
+]
