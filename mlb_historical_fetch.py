@@ -618,6 +618,10 @@ def main():
     parser.add_argument("--output-dir", type=str, default="data")
     args = parser.parse_args()
 
+    # Flush output line by line so GitHub Actions logs show progress live
+    # (Python otherwise buffers stdout when it isn't a terminal).
+    sys.stdout.reconfigure(line_buffering=True)
+
     global DATA_DIR, COVERAGE_SUFFIX
     DATA_DIR = Path(args.output_dir)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
