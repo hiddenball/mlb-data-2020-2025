@@ -1,0 +1,58 @@
+[
+  {
+    "year": 2021,
+    "field": "boxscore",
+    "total_checked": 2475,
+    "had_data": 2475,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2021,
+    "field": "draft",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2021,
+    "field": "linescore",
+    "total_checked": 2475,
+    "had_data": 2475,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2021,
+    "field": "playbyplay",
+    "total_checked": 2475,
+    "had_data": 2475,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2021,
+    "field": "roster",
+    "total_checked": 30,
+    "had_data": 30,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2021,
+    "field": "standings_splits",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2021,
+    "field": "transactions",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2021,
+    "field": "winprobability",
+    "total_checked": 2475,
+    "had_data": 2475,
+    "pct_available": 100.0
+  }
+]
