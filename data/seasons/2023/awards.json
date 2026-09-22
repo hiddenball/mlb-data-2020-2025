@@ -1,0 +1,296 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 660271,
+    "teamId": 108,
+    "year": 2023
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 660670,
+    "teamId": 144,
+    "year": 2023
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 543037,
+    "teamId": 147,
+    "year": 2023
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 605483,
+    "teamId": 135,
+    "year": 2023
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 683002,
+    "teamId": 110,
+    "year": 2023
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 682998,
+    "teamId": 109,
+    "year": 2023
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 666969,
+    "teamId": 140,
+    "year": 2023
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 665926,
+    "teamId": 114,
+    "year": 2023
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 683011,
+    "teamId": 147,
+    "year": 2023
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 641680,
+    "teamId": 140,
+    "year": 2023
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 621244,
+    "teamId": 141,
+    "year": 2023
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 595281,
+    "teamId": 141,
+    "year": 2023
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 656305,
+    "teamId": 141,
+    "year": 2023
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 643289,
+    "teamId": 117,
+    "year": 2023
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 663993,
+    "teamId": 140,
+    "year": 2023
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 680757,
+    "teamId": 114,
+    "year": 2023
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 686668,
+    "teamId": 115,
+    "year": 2023
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 572233,
+    "teamId": 109,
+    "year": 2023
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 621020,
+    "teamId": 112,
+    "year": 2023
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 665487,
+    "teamId": 135,
+    "year": 2023
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 672515,
+    "teamId": 109,
+    "year": 2023
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 673490,
+    "teamId": 135,
+    "year": 2023
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 664023,
+    "teamId": 112,
+    "year": 2023
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 663647,
+    "teamId": 134,
+    "year": 2023
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 663538,
+    "teamId": 112,
+    "year": 2023
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 554430,
+    "teamId": 143,
+    "year": 2023
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 668939,
+    "teamId": 110,
+    "year": 2023
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 608369,
+    "teamId": 140,
+    "year": 2023
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 683002,
+    "teamId": 110,
+    "year": 2023
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 677594,
+    "teamId": 136,
+    "year": 2023
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 663656,
+    "teamId": 117,
+    "year": 2023
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 673357,
+    "teamId": 145,
+    "year": 2023
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 543760,
+    "teamId": 140,
+    "year": 2023
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 646240,
+    "teamId": 111,
+    "year": 2023
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 660271,
+    "teamId": 108,
+    "year": 2023
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 650490,
+    "teamId": 139,
+    "year": 2023
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 663586,
+    "teamId": 144,
+    "year": 2023
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 547180,
+    "teamId": 143,
+    "year": 2023
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 641355,
+    "teamId": 112,
+    "year": 2023
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 596019,
+    "teamId": 121,
+    "year": 2023
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 665742,
+    "teamId": 135,
+    "year": 2023
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 650333,
+    "teamId": 146,
+    "year": 2023
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 621566,
+    "teamId": 144,
+    "year": 2023
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 605141,
+    "teamId": 119,
+    "year": 2023
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 660670,
+    "teamId": 144,
+    "year": 2023
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 661388,
+    "teamId": 158,
+    "year": 2023
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 492447,
+    "teamId": 14,
+    "year": 2023
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 118730,
+    "teamId": 14,
+    "year": 2023
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 121409,
+    "teamId": 138,
+    "year": 2023
+  }
+]

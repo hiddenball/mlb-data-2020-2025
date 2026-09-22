@@ -1,0 +1,182 @@
+[
+  {
+    "divisionAtTheTime": "American League West",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Athletics",
+    "teamId": 133
+  },
+  {
+    "divisionAtTheTime": "National League Central",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "Pittsburgh Pirates",
+    "teamId": 134
+  },
+  {
+    "divisionAtTheTime": "National League West",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "San Diego Padres",
+    "teamId": 135
+  },
+  {
+    "divisionAtTheTime": "American League West",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Seattle Mariners",
+    "teamId": 136
+  },
+  {
+    "divisionAtTheTime": "National League West",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "San Francisco Giants",
+    "teamId": 137
+  },
+  {
+    "divisionAtTheTime": "National League Central",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "St. Louis Cardinals",
+    "teamId": 138
+  },
+  {
+    "divisionAtTheTime": "American League East",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Tampa Bay Rays",
+    "teamId": 139
+  },
+  {
+    "divisionAtTheTime": "American League West",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Texas Rangers",
+    "teamId": 140
+  },
+  {
+    "divisionAtTheTime": "American League East",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Toronto Blue Jays",
+    "teamId": 141
+  },
+  {
+    "divisionAtTheTime": "American League Central",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Minnesota Twins",
+    "teamId": 142
+  },
+  {
+    "divisionAtTheTime": "National League East",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "Philadelphia Phillies",
+    "teamId": 143
+  },
+  {
+    "divisionAtTheTime": "National League East",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "Atlanta Braves",
+    "teamId": 144
+  },
+  {
+    "divisionAtTheTime": "American League Central",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Chicago White Sox",
+    "teamId": 145
+  },
+  {
+    "divisionAtTheTime": "National League East",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "Miami Marlins",
+    "teamId": 146
+  },
+  {
+    "divisionAtTheTime": "American League East",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "New York Yankees",
+    "teamId": 147
+  },
+  {
+    "divisionAtTheTime": "National League Central",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "Milwaukee Brewers",
+    "teamId": 158
+  },
+  {
+    "divisionAtTheTime": "American League West",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Los Angeles Angels",
+    "teamId": 108
+  },
+  {
+    "divisionAtTheTime": "National League West",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "Arizona Diamondbacks",
+    "teamId": 109
+  },
+  {
+    "divisionAtTheTime": "American League East",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Baltimore Orioles",
+    "teamId": 110
+  },
+  {
+    "divisionAtTheTime": "American League East",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Boston Red Sox",
+    "teamId": 111
+  },
+  {
+    "divisionAtTheTime": "National League Central",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "Chicago Cubs",
+    "teamId": 112
+  },
+  {
+    "divisionAtTheTime": "National League Central",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "Cincinnati Reds",
+    "teamId": 113
+  },
+  {
+    "divisionAtTheTime": "American League Central",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Cleveland Guardians",
+    "teamId": 114
+  },
+  {
+    "divisionAtTheTime": "National League West",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "Colorado Rockies",
+    "teamId": 115
+  },
+  {
+    "divisionAtTheTime": "American League Central",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Detroit Tigers",
+    "teamId": 116
+  },
+  {
+    "divisionAtTheTime": "American League West",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Houston Astros",
+    "teamId": 117
+  },
+  {
+    "divisionAtTheTime": "American League Central",
+    "leagueAtTheTime": "American League",
+    "nameAtTheTime": "Kansas City Royals",
+    "teamId": 118
+  },
+  {
+    "divisionAtTheTime": "National League West",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "Los Angeles Dodgers",
+    "teamId": 119
+  },
+  {
+    "divisionAtTheTime": "National League East",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "Washington Nationals",
+    "teamId": 120
+  },
+  {
+    "divisionAtTheTime": "National League East",
+    "leagueAtTheTime": "National League",
+    "nameAtTheTime": "New York Mets",
+    "teamId": 121
+  }
+]

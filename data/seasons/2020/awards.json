@@ -1,0 +1,272 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 547989,
+    "teamId": 145,
+    "year": 2020
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 518692,
+    "teamId": 144,
+    "year": 2020
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 669456,
+    "teamId": 114,
+    "year": 2020
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 545333,
+    "teamId": 113,
+    "year": 2020
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 641786,
+    "teamId": 136,
+    "year": 2020
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 642207,
+    "teamId": 158,
+    "year": 2020
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 460086,
+    "teamId": 118,
+    "year": 2020
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 514917,
+    "teamId": 114,
+    "year": 2020
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 657108,
+    "teamId": 136,
+    "year": 2020
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 656288,
+    "teamId": 108,
+    "year": 2020
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 643396,
+    "teamId": 140,
+    "year": 2020
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 641487,
+    "teamId": 136,
+    "year": 2020
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 608336,
+    "teamId": 140,
+    "year": 2020
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 673357,
+    "teamId": 145,
+    "year": 2020
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 547379,
+    "teamId": 114,
+    "year": 2020
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 519203,
+    "teamId": 112,
+    "year": 2020
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 595879,
+    "teamId": 112,
+    "year": 2020
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 543939,
+    "teamId": 138,
+    "year": 2020
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 608331,
+    "teamId": 144,
+    "year": 2020
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 605141,
+    "teamId": 119,
+    "year": 2020
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 571448,
+    "teamId": 115,
+    "year": 2020
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 663757,
+    "teamId": 135,
+    "year": 2020
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 571466,
+    "teamId": 113,
+    "year": 2020
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 641933,
+    "teamId": 138,
+    "year": 2020
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 518934,
+    "teamId": 147,
+    "year": 2020
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 650391,
+    "teamId": 145,
+    "year": 2020
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 547989,
+    "teamId": 145,
+    "year": 2020
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 608070,
+    "teamId": 114,
+    "year": 2020
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 545361,
+    "teamId": 108,
+    "year": 2020
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 443558,
+    "teamId": 142,
+    "year": 2020
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 521692,
+    "teamId": 118,
+    "year": 2020
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 606192,
+    "teamId": 141,
+    "year": 2020
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 641313,
+    "teamId": 145,
+    "year": 2020
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 456781,
+    "teamId": 137,
+    "year": 2020
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 665487,
+    "teamId": 135,
+    "year": 2020
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 518692,
+    "teamId": 144,
+    "year": 2020
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 665742,
+    "teamId": 120,
+    "year": 2020
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 592518,
+    "teamId": 135,
+    "year": 2020
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 542303,
+    "teamId": 144,
+    "year": 2020
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 605141,
+    "teamId": 119,
+    "year": 2020
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 660670,
+    "teamId": 144,
+    "year": 2020
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 518595,
+    "teamId": 144,
+    "year": 2020
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 122247,
+    "teamId": 138,
+    "year": 2020
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 116539,
+    "teamId": 147,
+    "year": 2020
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 123833,
+    "teamId": 115,
+    "year": 2020
+  }
+]

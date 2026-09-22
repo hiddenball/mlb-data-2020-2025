@@ -1,0 +1,284 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 592450,
+    "teamId": 147,
+    "year": 2022
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 502671,
+    "teamId": 138,
+    "year": 2022
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 434378,
+    "teamId": 117,
+    "year": 2022
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 645261,
+    "teamId": 146,
+    "year": 2022
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 677594,
+    "teamId": 136,
+    "year": 2022
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 671739,
+    "teamId": 144,
+    "year": 2022
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 665926,
+    "teamId": 114,
+    "year": 2022
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 518934,
+    "teamId": 147,
+    "year": 2022
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 665161,
+    "teamId": 117,
+    "year": 2022
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 624431,
+    "teamId": 147,
+    "year": 2022
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 663656,
+    "teamId": 117,
+    "year": 2022
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 664702,
+    "teamId": 114,
+    "year": 2022
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 602104,
+    "teamId": 110,
+    "year": 2022
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 669456,
+    "teamId": 114,
+    "year": 2022
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 680757,
+    "teamId": 114,
+    "year": 2022
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 665489,
+    "teamId": 141,
+    "year": 2022
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 680977,
+    "teamId": 138,
+    "year": 2022
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 663898,
+    "teamId": 115,
+    "year": 2022
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 572233,
+    "teamId": 109,
+    "year": 2022
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 621020,
+    "teamId": 144,
+    "year": 2022
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 664023,
+    "teamId": 112,
+    "year": 2022
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 592663,
+    "teamId": 143,
+    "year": 2022
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 608331,
+    "teamId": 144,
+    "year": 2022
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 605141,
+    "teamId": 119,
+    "year": 2022
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 571448,
+    "teamId": 138,
+    "year": 2022
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 663757,
+    "teamId": 135,
+    "year": 2022
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 592450,
+    "teamId": 147,
+    "year": 2022
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 672386,
+    "teamId": 141,
+    "year": 2022
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 514888,
+    "teamId": 117,
+    "year": 2022
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 608070,
+    "teamId": 114,
+    "year": 2022
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 677594,
+    "teamId": 136,
+    "year": 2022
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 650333,
+    "teamId": 142,
+    "year": 2022
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 545361,
+    "teamId": 108,
+    "year": 2022
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 663993,
+    "teamId": 140,
+    "year": 2022
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 593428,
+    "teamId": 111,
+    "year": 2022
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 670541,
+    "teamId": 117,
+    "year": 2022
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 592273,
+    "teamId": 135,
+    "year": 2022
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 592663,
+    "teamId": 143,
+    "year": 2022
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 643446,
+    "teamId": 121,
+    "year": 2022
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 605137,
+    "teamId": 135,
+    "year": 2022
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 665742,
+    "teamId": 135,
+    "year": 2022
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 656941,
+    "teamId": 143,
+    "year": 2022
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 605141,
+    "teamId": 119,
+    "year": 2022
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 571448,
+    "teamId": 138,
+    "year": 2022
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 502671,
+    "teamId": 138,
+    "year": 2022
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 607208,
+    "teamId": 119,
+    "year": 2022
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 120074,
+    "teamId": 111,
+    "year": 2022
+  }
+]

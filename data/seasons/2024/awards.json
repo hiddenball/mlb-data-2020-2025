@@ -1,0 +1,296 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 592450,
+    "teamId": 147,
+    "year": 2024
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 660271,
+    "teamId": 119,
+    "year": 2024
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 669373,
+    "teamId": 116,
+    "year": 2024
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 519242,
+    "teamId": 144,
+    "year": 2024
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 661563,
+    "teamId": 147,
+    "year": 2024
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 694973,
+    "teamId": 134,
+    "year": 2024
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 608324,
+    "teamId": 117,
+    "year": 2024
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 665926,
+    "teamId": 114,
+    "year": 2024
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 677951,
+    "teamId": 118,
+    "year": 2024
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 663728,
+    "teamId": 136,
+    "year": 2024
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 467793,
+    "teamId": 142,
+    "year": 2024
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 662139,
+    "teamId": 141,
+    "year": 2024
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 664238,
+    "teamId": 136,
+    "year": 2024
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 607625,
+    "teamId": 118,
+    "year": 2024
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 680757,
+    "teamId": 114,
+    "year": 2024
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 677800,
+    "teamId": 111,
+    "year": 2024
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 686668,
+    "teamId": 115,
+    "year": 2024
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 668930,
+    "teamId": 158,
+    "year": 2024
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 519242,
+    "teamId": 144,
+    "year": 2024
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 572233,
+    "teamId": 109,
+    "year": 2024
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 678662,
+    "teamId": 115,
+    "year": 2024
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 664023,
+    "teamId": 112,
+    "year": 2024
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 669707,
+    "teamId": 134,
+    "year": 2024
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 656305,
+    "teamId": 137,
+    "year": 2024
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 672275,
+    "teamId": 137,
+    "year": 2024
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 686217,
+    "teamId": 158,
+    "year": 2024
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 592450,
+    "teamId": 147,
+    "year": 2024
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 623993,
+    "teamId": 110,
+    "year": 2024
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 677951,
+    "teamId": 118,
+    "year": 2024
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 667670,
+    "teamId": 133,
+    "year": 2024
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 514888,
+    "teamId": 117,
+    "year": 2024
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 669701,
+    "teamId": 140,
+    "year": 2024
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 608070,
+    "teamId": 114,
+    "year": 2024
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 665742,
+    "teamId": 147,
+    "year": 2024
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 521692,
+    "teamId": 118,
+    "year": 2024
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 665489,
+    "teamId": 141,
+    "year": 2024
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 547180,
+    "teamId": 143,
+    "year": 2024
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 596019,
+    "teamId": 121,
+    "year": 2024
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 701538,
+    "teamId": 135,
+    "year": 2024
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 595777,
+    "teamId": 135,
+    "year": 2024
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 606466,
+    "teamId": 109,
+    "year": 2024
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 592518,
+    "teamId": 135,
+    "year": 2024
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 605141,
+    "teamId": 119,
+    "year": 2024
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 660271,
+    "teamId": 119,
+    "year": 2024
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 606192,
+    "teamId": 119,
+    "year": 2024
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 661388,
+    "teamId": 158,
+    "year": 2024
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 134181,
+    "teamId": 140,
+    "year": 2024
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 408045,
+    "teamId": 142,
+    "year": 2024
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 115732,
+    "teamId": 115,
+    "year": 2024
+  }
+]
